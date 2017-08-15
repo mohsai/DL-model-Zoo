@@ -6,3 +6,5 @@ all models. The focus is not on model performance but developing different worki
 Following is the list of the implemented models:
 
 1. 
+
+2. Transfer Learning-ResNet-50: Transfer learning concept is used to classify the cat&dog datset with ResNet-50. Pre.trained weights are used for all layers except top most layer. 
